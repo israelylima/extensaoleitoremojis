@@ -39,7 +39,13 @@ about:debugging#/runtime/this-firefox
 
 Pressione Enter
 
-4️⃣ Usar a ferramenta
+3️⃣ Carregar a extensão
+
+- Clique em “Carregar complemento temporário”
+- Selecione o arquivo manifest.json da pasta da extensão
+- A extensão será carregada imediatamente
+
+4️⃣ Usando a ferramenta
 
 - Acesse qualquer página da web (ou um HTML de teste)
 - Clique no ícone da extensão na barra do Firefox
